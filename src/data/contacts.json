@@ -1,0 +1,140 @@
+{
+    "contacts": [
+      {
+        "_id": 1,
+        "name": "Maria Aparecida",
+        "phone": "34988184050",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1994-09-21T12:00:00.000"
+      },
+      {
+        "_id": 2,
+        "name": "Rosana Silva Pereira",
+        "phone": "11989403210",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1992-09-21T12:00:00.000"
+      },
+      {
+        "_id": 3,
+        "name": "Arlindo Junqueira",
+        "phone": "31981144050",
+        "active": false,
+        "role": "Paciente",
+        "birthDate": "1990-04-10T12:00:00.000Z"
+      },
+      {
+        "_id": 4,
+        "name": "Julio Felicio Leandro Passos",
+        "phone": "34981204950",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1950-08-24T12:00:00.000"
+      },
+      {
+        "_id": 5,
+        "name": "Maria Rita",
+        "phone": "34988184050",
+        "active": true,
+        "role": "Medico",
+        "birthDate": "1985-06-30T12:00:00.000Z"
+      },
+      {
+        "_id": 6,
+        "name": "Patrícia Siqueira Ramos",
+        "phone": "34938102040",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1980-06-30T12:00:00.000"
+      },
+      {
+        "_id": 7,
+        "name": "Reginaldo Lemes",
+        "phone": "34978814050",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1980-02-02T12:00:00.000"
+      },
+      {
+        "_id": 8,
+        "name": "Regina de Sá Bruno",
+        "phone": "3498984055",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1990-02-02T12:00:00.000"
+      },
+      {
+        "_id": 9,
+        "name": "Paulo Gomes",
+        "phone": "34978141210",
+        "active": false,
+        "role": "Paciente",
+        "birthDate": "1990-02-18T12:00:00.000"
+      },
+      {
+        "_id": 10,
+        "name": "Amélia de Jesus",
+        "phone": "34928184150",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1980-08-14T12:00:00.000"
+      },
+      {
+        "_id": 11,
+        "name": "Beatriz Paes",
+        "phone": "34988134353",
+        "active": false,
+        "role": "Medico",
+        "birthDate": "1973-01-14T12:00:00.000"
+      },
+      {
+        "_id": 12,
+        "name": "Benício Freitas Caetano",
+        "phone": "34989184059",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1977-01-29T12:00:00.000"
+      },
+      {
+        "_id": 13,
+        "name": "Bruno Pereira",
+        "phone": "34998184750",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1958-04-10T12:00:00.000"
+      },
+      {
+        "_id": 14,
+        "name": "Julice Dardare",
+        "phone": "3198784050",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1987-11-02T12:00:00.000"
+      },
+      {
+        "_id": 15,
+        "name": "Osvaldo Reis",
+        "phone": "34948182050",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1971-12-24T12:00:00.000"
+      },
+      {
+        "_id": 16,
+        "name": "Odinei Aparecido Ramos",
+        "phone": "34976664050",
+        "active": false,
+        "role": "Médico",
+        "birthDate": "1980-12-07T12:00:00.000"
+      },
+      {
+        "_id": 17,
+        "name": "Sidnei gervasio",
+        "phone": "34978185450",
+        "active": true,
+        "role": "Paciente",
+        "birthDate": "1976-10-28T12:00:00.000"
+      }
+    ]
+  }

@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.fc-prev-button,
+.fc-next-button {
+  background-color: #A672FF !important;
+  color: white !important;
+  border-radius: 6px !important; 
+  padding: 8px !important; 
+  border: none !important;
+}
+
+.fc-prev-button:hover,
+.fc-next-button:hover {
+  background-color: #9250e8 !important; 
+}
+
+.fc-today-button {
+    background-color: #A672FF !important; 
+    color: white !important;
+    border-radius: 6px !important;
+    padding: 8px 12px !important; 
+    font-weight: bold !important; 
+    border: none !important; 
+  }
+  
+  .fc-today-button:hover {
+    background-color: #9250e8 !important;
+  }
+  

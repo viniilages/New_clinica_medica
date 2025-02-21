@@ -1,0 +1,109 @@
+{
+    "consultations": [
+      {
+        "_id": 1,
+        "patient": 10,
+        "doctor": 5,
+        "status": "scheduled",
+        "date": "2025-02-28T16:30:00.000Z"
+      },
+      {
+        "_id": 2,
+        "patient": 12,
+        "doctor": 5,
+        "status": "canceled",
+        "date": "2025-01-31T12:30:00.000Z"
+      },
+      {
+        "_id": 3,
+        "patient": 13,
+        "doctor": 5,
+        "status": "canceled",
+        "date": "2025-02-10T14:00:00.000Z"
+      },
+      {
+        "_id": 4,
+        "patient": 8,
+        "doctor": 5,
+        "status": "scheduled",
+        "date": "2025-02-21T09:30:00.000Z"
+      },
+      {
+        "_id": 5,
+        "patient": 12,
+        "doctor": 5,
+        "status": "scheduled",
+        "date": "2025-02-18T11:00:00.000Z"
+      },
+      {
+        "_id": 6,
+        "patient": 3,
+        "doctor": 5,
+        "status": "canceled",
+        "date": "2025-02-17T15:45:00.000Z"
+      },
+      {
+        "_id": 7,
+        "patient": 12,
+        "doctor": 5,
+        "status": "scheduled",
+        "date": "2025-01-16T16:45:00.000Z"
+      },
+      {
+        "_id": 8,
+        "patient": 2,
+        "doctor": 5,
+        "status": "scheduled",
+        "date": "2025-03-10T17:00:00.000Z"
+      },
+      {
+        "_id": 9,
+        "patient": 7,
+        "doctor": 5,
+        "status": "canceled",
+        "date": "2025-03-27T10:00:00.000Z"
+      },
+      {
+        "_id": 10,
+        "patient": 12,
+        "doctor": 5,
+        "status": "scheduled",
+        "date": "2025-04-03T09:30:00.000Z"
+      },
+      {
+        "_id": 11,
+        "patient": 16,
+        "doctor": 11,
+        "status": "canceled",
+        "date": "2025-02-20T10:00:00.000Z"
+      },
+      {
+        "_id": 12,
+        "patient": 15,
+        "doctor": 11,
+        "status": "scheduled",
+        "date": "2025-02-25T09:30:00.000Z"
+      },
+      {
+        "_id": 13,
+        "patient": 1,
+        "doctor": 5,
+        "status": "completed",
+        "date": "2025-02-03T10:00:00.000Z"
+      },
+      {
+        "_id": 14,
+        "patient": 4,
+        "doctor": 11,
+        "status": "completed",
+        "date": "2025-02-25T09:30:00.000Z"
+      },
+      {
+        "_id": 15,
+        "patient": 11,
+        "doctor": 16,
+        "status": "scheduled",
+        "date": "2025-02-27T11:30:00.000Z"
+      }
+    ]
+  }
