@@ -22,10 +22,8 @@ const Contatos: React.FC = () => {
 
   return (
     <Layout>
-      {/* Container principal com espaçamento vertical adaptável */}
       <div className=" bg-gray-50 min-h-screen">
         
-        {/* Cabeçalho */}
         <div className="p-4">
           <h2 className="text-2xl font-semibold text-gray-800 flex items-center space-x-2">
             <Users size={24} className="text-[#A672FF]" />
@@ -33,7 +31,6 @@ const Contatos: React.FC = () => {
           </h2>
         </div>
 
-        {/* Área de ações: botão e campo de busca */}
         <div className="pl-4 p-2 sm:p-4 flex flex-col sm:flex-row justify-between items-start sm:items-center mb-4 space-y-2 sm:space-y-0">
           <button
             onClick={() => setIsModalOpen(true)}
@@ -43,7 +40,6 @@ const Contatos: React.FC = () => {
             <span className="text-sm sm:text-base">Adicionar novo contato</span>
           </button>
 
-          {/* Container do campo de busca com posicionamento relativo */}
           <div className="relative w-full sm:w-auto">
             <input
               type="text"
@@ -56,7 +52,6 @@ const Contatos: React.FC = () => {
           </div>
         </div>
 
-        {/* Tabela de contatos */}
         <div className=" pl-2 bg-white shadow-md rounded-lg">
           <div className="  overflow-x-auto pl-3">
             <table className="w-full border-collapse pl-2">

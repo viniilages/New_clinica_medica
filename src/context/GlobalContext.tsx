@@ -1,4 +1,3 @@
-// context/GlobalContext.tsx
 import React, { createContext, useState, useContext } from 'react';
 import contactsList from '../data/contacts.json';
 
