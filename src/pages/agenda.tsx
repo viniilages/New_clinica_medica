@@ -65,8 +65,8 @@ const Agenda: React.FC = () => {
         </div>
 
         <div className="bg-white shadow-md rounded-lg p-4 md:p-6">
-          <div className="overflow-x-auto">
-            <Calendar events={events} />
+          <div className="overflow-x-auto ">
+            <Calendar events={events}/>
           </div>
         </div>
       </div>

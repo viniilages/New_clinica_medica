@@ -28,4 +28,14 @@
   .fc-today-button:hover {
     background-color: #9250e8 !important;
   }
+
+  /* Exemplo em um arquivo CSS global */
+.fc-toolbar-chunk {
+  @apply flex items-center;
+}
+
+.fc-button {
+  @apply flex items-center justify-center;
+}
+
   
